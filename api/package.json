@@ -1,0 +1,21 @@
+{
+    "name": "my-team-api",
+    "version": "0.0.1",
+    "description": "My Team social network API",
+    "author": {
+        "name": "Maxim Kostyrkin",
+        "email": "mkostyrkin@gmail.com",
+        "url": "https://www.maximkostyrkin.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxibrain/my-team"
+    },
+    "dependencies": {
+        "restify": "^6.3.4",
+        "mongodb": "^2.2.33"
+    },
+    "devDependencies": {
+        "mocha": "^4.0.1"
+    }
+}
